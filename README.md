@@ -13,6 +13,7 @@ Exploring the galaxy of Android Dev, Python, and wherever else the journey bring
 ![Govind's GitHub stats](https://github-readme-stats.vercel.app/api?username=Govind-Sankar&show_icons=true&hide=prs&rank_icon=github)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Govind-Sankar&layout=compact)](https://github.com/Govind-Sankar)
 
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Govind-Sankar&no-frame=true&no-bg=false&margin-w=7)
 <!--
