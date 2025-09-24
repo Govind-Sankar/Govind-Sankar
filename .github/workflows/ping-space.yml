@@ -2,7 +2,7 @@
 name: Keep Space Alive
 on:
   schedule:
-    - cron: '*/25 * * * *'  # every 20 minutes
+    - cron: '*/25 * * * *'  # every 25 minutes
 jobs:
   ping:
     runs-on: ubuntu-latest
