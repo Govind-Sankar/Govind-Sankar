@@ -1,0 +1,11 @@
+# .github/workflows/ping-space.yml
+name: Keep Space Alive
+on:
+  schedule:
+    - cron: '*/20 * * * *'  # every 20 minutes
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Curl Hugging Face Space
+        run: curl -s https://huggingface.co/spaces/Govind-Sankar/IMDb-Sentiment-Analyzer > /dev/null
