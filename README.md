@@ -10,7 +10,7 @@ I'm passionate about building intelligent systems using **Machine Learning**, **
   <img src="https://img.icons8.com/fluency/48/quote-left.png" width="28"/>
 </h3>
 
-> Tools are just wands, What matters is the <span style="color:#7F5AF0;"><b>wizard</b></span>.
+> Tools are just wands, What matters is the **wizard**.
 
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer"/>
@@ -34,15 +34,9 @@ I'm passionate about building intelligent systems using **Machine Learning**, **
 ### Connect with me!
 
 <p align="center">
-  <a href="https://govind-sankar.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/Govind-Sankar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.github.com/govind-sankar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
+  <a href="https://govind-sankar.github.io/"><img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://github.com/Govind-Sankar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.github.com/govind-sankar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <!-- <a href="mailto:your@email.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a> -->
