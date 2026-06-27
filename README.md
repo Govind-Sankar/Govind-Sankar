@@ -1,23 +1,49 @@
-## Hello, World!
+![header](assets/banner.svg)
 
-### Hey, I'm <strong>Govind Sankar</strong> — an aspiring developer and lifelong learner. <br>
-Currently a small padawan on the path to mastering the Force of code. <br>
-Exploring the galaxy of Android Dev, Python, and wherever else the journey brings. 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&color=7F5AF0&size=24&pause=1000&width=435&lines=Hello%2C+World!+👋)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat) ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) ![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=flat) ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) ![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=flat) ![Jetpack Compose Badge](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=fff&style=flat) ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat) ![Arduino Badge](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=flat)  ![Flask Badge](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=flat)
-<!-- ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat) ![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat) ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat) 
+I'm **Govind Sankar**, a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**.
 
-<!-- # 📊 GitHub Stats: -->
-<!--![](https://github-readme-stats.vercel.app/api?username=Govind-Sankar&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)--> <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Govind-Sankar&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)--> 
-<!--!<br/>[](https://nirzak-streak-stats.vercel.app/?user=Govind-Sankar&theme=shades-of-purple&hide_border=false)<br/>-->
-<!-- ![Govind's GitHub stats](https://github-readme-stats.vercel.app/api?username=Govind-Sankar&show_icons=true&hide=prs&rank_icon=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Govind-Sankar&layout=compact)](https://github.com/Govind-Sankar)
+I'm passionate about building intelligent systems using **Machine Learning**, **Large Language Models**, and **MLOps**, transforming ideas into end-to-end production-ready applications. Along the way, I've also gained hands-on experience in **Android** and **Full-Stack Development**, giving me a strong software engineering foundation.
 
-<!--
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Govind-Sankar&no-frame=true&no-bg=false&margin-w=7)
-<!--
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Govind-Sankar&limit=5&combine_all_yearly_contributions=true)
--->
+<h3>
+  <img src="https://img.icons8.com/fluency/48/quote-left.png" width="28"/>
+</h3>
+
+> Tools are just wands, What matters is the <span style="color:#7F5AF0;"><b>wizard</b></span>.
+
+
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer"/>
+
+### Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv"/> <br />
+<img src="https://skillicons.dev/icons?i=git,github,docker,androidstudio,linux"/> <br />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb,firebase,supabase"/> <br />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/> <br />
+<img src="https://skillicons.dev/icons?i=java,kotlin,dart,flutter"/> <br />
+
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer"/>
+
+### My Stats
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Govind-Sankar&theme=tokyo-night&hide_border=true"/> <br />
+
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer"/>
+
+### Connect with me!
+
+<p align="center">
+  <a href="https://govind-sankar.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/Govind-Sankar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.github.com/govind-sankar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <!-- <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a> -->
+</p>

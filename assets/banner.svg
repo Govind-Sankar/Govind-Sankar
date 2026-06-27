@@ -1,0 +1,51 @@
+<svg
+  width="854"
+  height="220"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  style="z-index:1;position:relative"
+  viewBox="0 0 854 220"
+>
+  <style>
+    .text {   font-size: 50px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
+    .desc {   font-size: 20px;   font-weight: 400;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
+    .text, .desc {   animation: fadeIn 1.2s ease-in-out forwards;  } @keyframes fadeIn {   from {     opacity: 0;   }   to {     opacity: 1;   }  } 
+  </style>
+  <defs>
+    <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7F5AF0"/><stop offset="100%" stop-color="#4F8EF7"/>
+    </linearGradient>
+  </defs>
+  
+  <g transform="translate(427, 110) scale(1, 1) translate(-427, -110)">
+    <path d="" fill="url(#linear)" opacity="0.4" >
+      <animate
+          attributeName="d"
+          dur="20s"
+          repeatCount="indefinite"
+          keyTimes="0;0.333;0.667;1"
+          calcmod="spline"
+          keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+          begin="0s"
+          values="M0 0L 0 140Q 213.5 180 427 150T 854 175L 854 0 Z;M0 0L 0 165Q 213.5 180 427 160T 854 150L 854 0 Z;M0 0L 0 185Q 213.5 155 427 185T 854 150L 854 0 Z;M0 0L 0 140Q 213.5 180 427 150T 854 175L 854 0 Z">
+      </animate>
+    </path>
+    <path d="" fill="url(#linear)" opacity="0.4" >
+      <animate
+        attributeName="d"
+        dur="20s"
+        repeatCount="indefinite"
+        keyTimes="0;0.333;0.667;1"
+        calcmod="spline"
+        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+        begin="-10s"
+        values="M0 0L 0 155Q 213.5 200 427 170T 854 180L 854 0 Z;M0 0L 0 170Q 213.5 140 427 140T 854 160L 854 0 Z;M0 0L 0 165Q 213.5 145 427 170T 854 185L 854 0 Z;M0 0L 0 155Q 213.5 200 427 170T 854 180L 854 0 Z">
+      </animate>
+    </path>
+  </g>
+
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="25%" class="text" style="fill:#ffffff;" stroke="#none" stroke-width="1" >Govind Sankar</text>
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="40%" class="desc" style="fill:#ffffff;">Computer Science Engineering</text>
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="50%" class="desc" style="fill:#ffffff;">Artificial Intelligence | Machine Learning</text>
+</svg>
+    
