@@ -4,7 +4,7 @@
 
 I'm **Govind Sankar**, a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**.
 
-I'm passionate about building intelligent systems using **Machine Learning**, **Large Language Models**, and **MLOps**, transforming ideas into end-to-end production-ready applications. Along the way, I've also gained hands-on experience in **Android** and **Full-Stack Development**, giving me a strong software engineering foundation.
+I'm passionate about building intelligent systems using **Machine Learning**, **Large Language Models**, and **MLOps**, transforming ideas into end-to-end production-ready applications. Along the way, I've also gained hands-on experience in Android and Full-Stack Development, giving me a strong software engineering foundation.
 
 <h3>
   <img src="https://img.icons8.com/fluency/48/quote-left.png" width="28"/>
@@ -36,7 +36,7 @@ I'm passionate about building intelligent systems using **Machine Learning**, **
 <p align="center">
   <a href="https://govind-sankar.github.io/"><img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://github.com/Govind-Sankar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.github.com/govind-sankar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/govindsankar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <!-- <a href="mailto:your@email.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a> -->
