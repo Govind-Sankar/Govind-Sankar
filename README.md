@@ -36,7 +36,7 @@ I'm passionate about building intelligent systems using **Machine Learning**, **
 ### Connect with me!
 
 <p align="center">
-  <a href="https://govind-sankar.github.io/"><img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://govind-sankar.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://github.com/Govind-Sankar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://linkedin.com/in/govindsankar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <!-- <a href="mailto:your@email.com">
