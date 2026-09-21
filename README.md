@@ -25,11 +25,13 @@ I'm passionate about building intelligent systems using **Machine Learning**, **
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer"/>
 
+<!--
 ### My Stats
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Govind-Sankar&theme=tokyo-night&hide_border=true"/> <br />
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer"/>
+-->
 
 ### Connect with me!
 
